@@ -157,15 +157,6 @@ I prefer learning by building real projects and solving practical problems rathe
 
 ---
 
-## 📊 GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zaverimohdfaraz&show_icons=true&hide_border=true&count_private=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaverimohdfaraz&layout=compact&hide_border=true" height="170" />
-</p>
-
----
-
 ## 🌐 Connect With Me
 
 * 💼 LinkedIn: [linkedin.com/in/faraz-zaveri-09209738a](https://linkedin.com/in/faraz-zaveri-09209738a)
